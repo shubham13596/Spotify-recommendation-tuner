@@ -35,10 +35,6 @@ Existing recommendations + User-chosen values of Energy & Instrumentalness = New
 
 With the advancement of Large Language Models (LLMs), users might even be able to fine-tune their recommendations using natural language in the future.
 
-## Try It Out
-
-[Instructions on how to set up and run the demo]
-
 ## Feedback
 
 We're happy to hear your views and comments on this concept. Feel free to open an issue or submit a pull request!
