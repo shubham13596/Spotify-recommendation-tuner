@@ -24,6 +24,8 @@ This demo allows users to adjust two key parameters:
 Formula:
 Existing recommendations + User-chosen values of Energy & Instrumentalness = New recommendations
 
+![](https://github.com/shubham13596/Spotify-recommendation-tuner/blob/main/streamlit-app-2024-06-30-17-06-43-ezgif.com-video-to-gif-converter.gif)
+
 
 ## Why This Matters
 
